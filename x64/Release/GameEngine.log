@@ -1,0 +1,21 @@
+﻿  imgui-SFML.cpp
+C:\Users\tom\source\repos\GameEngine\imgui\imconfig.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  imgui.cpp
+C:\Users\tom\source\repos\GameEngine\imgui\imconfig.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  imgui_draw.cpp
+C:\Users\tom\source\repos\GameEngine\imgui\imconfig.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  imgui_tables.cpp
+C:\Users\tom\source\repos\GameEngine\imgui\imconfig.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  imgui_widgets.cpp
+C:\Users\tom\source\repos\GameEngine\imgui\imconfig.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+C:\Users\tom\source\repos\GameEngine\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tom\source\repos\GameEngine\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tom\source\repos\GameEngine\Main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tom\source\repos\GameEngine\imgui\imconfig.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tom\source\repos\GameEngine\Main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 727 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameEngine.vcxproj -> C:\Users\tom\source\repos\GameEngine\x64\Release\GameEngine.exe
