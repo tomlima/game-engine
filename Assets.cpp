@@ -1,4 +1,4 @@
-#include "../include/Assets.h"
+#include "Assets.h"
 #include <cassert>
 
 Assets::Assets() = default;
