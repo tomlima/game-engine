@@ -45,7 +45,7 @@ class Assets {
 
     void addAnimation(eAnimationTypes &animation_types, eTextureTypes &texture_types, size_t frameCount, size_t speed );
 
-    void addFont(eFontTypes &fontName, const std::string path);
+    void addFont(eFontTypes& fontName, const std::string& path);
 
 public:
     Assets();

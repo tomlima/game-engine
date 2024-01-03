@@ -107,7 +107,7 @@ void Assets::addFont(eFontTypes& fontName, const std::string& path) {
         m_fontMap.erase(fontName);
     }
     else {
-        std::cout << "Loaded Font:    " << path << std::endl;
+        std::cout << "Loaded Font:" << path << std::endl;
     }
 }
 
