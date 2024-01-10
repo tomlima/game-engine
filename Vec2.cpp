@@ -62,3 +62,18 @@ float Vec2::dist(const Vec2& vec) const {
 bool Vec2::operator>(const float val) const {
 	return ((x > val) && (y > val));
 }
+
+void Vec2::normalize(){
+    double l { std::sqrt(x * x + y * y)};
+    x = x/l;
+    y = y/l;
+}
+
+Vec2 Vec2::normalize(Vec2 vec){
+    double l {std::sqrt(vec.x * vec.x + vec.y * vec.y)};
+    return Vec2(vec.x/l,vec.y/l); 
+}
+
+
+
+
